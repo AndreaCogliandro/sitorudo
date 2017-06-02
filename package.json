@@ -1,0 +1,11 @@
+{
+    "name": "aiuto",
+    "email": "info@pinkpig.it",
+    "url": "http://tumblr.com/",
+    "dependencies": {
+        "typescript": "^2.3.4"
+    },
+    "scripts": {
+        "start": "tsc ."
+    }
+}
